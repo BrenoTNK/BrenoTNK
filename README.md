@@ -3,7 +3,7 @@
 
 - 🔭 Estudante de Programação
 - 🌱 Aprendendo HTML, CSS e Python
-- ⚡ Adoro desenhar
+- ⚡ Adoro desenhar...
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrenoTNK&show_icons=true&theme=dark)

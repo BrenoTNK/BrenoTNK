@@ -7,7 +7,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrenoTNK&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoTNK&layout=compact)](https://github.com/BrenoTNK/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoTNK&layout=compact&langs_count=7&theme=dark)](https://github.com/BrenoTNK/github-readme-stats)
 
 
 <div style="display: inline-block">

@@ -4,11 +4,9 @@
 - 🔭 Estudante de Programação
 - 🌱 Aprendendo HTML, CSS e Python
 - ⚡ Adoro desenhar
-
-
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrenoTNK&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoTNK&layout=compact&langs_count=7&theme=dark)](https://github.com/BrenoTNK/github-readme-stats)
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoTNK&layout=compact&langs_count=7&theme=dark" height=180em>
 
 <div style="display: inline-block">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height=50/>

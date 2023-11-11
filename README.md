@@ -2,8 +2,8 @@
 
 
 - 🔭 Estudante de Programação
-- 🌱 Aprendendo Desenvolvimento Web e Python
-- ⚡ Adoro desenhar
+- 🌱 Desenvolvimento Web
+- ⚡ Adoro desenhar e jogos
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrenoTNK&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoTNK&layout=compact&theme=dark)
